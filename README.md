@@ -61,7 +61,7 @@
 <h3 align="left">Let's Connect </h3>
 
 <p align="center">
-  <a href="mailto:dauddev007@gmail.com">
+  <a href="mailto:dauddev007@gmail.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/muhammaddauddev/">
