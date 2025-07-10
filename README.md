@@ -50,8 +50,7 @@
 
   
 <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  >
-<img
-src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
+<img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
 
 </p> 
 
@@ -62,8 +61,12 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 <h3 align="left">Let's Connect </h3>
 
 <p align="center">
-	<a href="mailto:dauddev007@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/muhammaddauddev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:dauddev007@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammaddauddev/">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
+  </a>
 </p>
 
 
