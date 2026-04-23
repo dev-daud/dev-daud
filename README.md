@@ -44,14 +44,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="48" />
-
-
-
-
-  
 <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  >
 <img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
-
 </p> 
 
 <div align="left">
